@@ -38,7 +38,7 @@
     "nodemailer": "^6.3.0",
     "nodemon": "^1.19.0",
     "pg": "^7.10.0",
-    "read-excel-file": "^4.0.6",
+    "read-excel-file": "^4.1.0",
     "sequelize": "^5.8.12",
     "typescript": "^3.5.2"
   },
